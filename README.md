@@ -1,6 +1,10 @@
 ## I AM ETHAN COOK
 ### DEVELOPER
-https://drive.google.com/file/d/1cc_g1UeDz6uWrgaCRTW6o_uYW2qJjXfD/view?usp=sharing
+
+[View my code review](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaCRTW6o_uYW2qJjXfD/view?usp=sharing)
+
+
+[Let me see some of your projects](https://fambam-ec.github.io/projects.html)
 
 You can use the [editor on GitHub](https://github.com/Fambam-EC/Fambam-EC.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
