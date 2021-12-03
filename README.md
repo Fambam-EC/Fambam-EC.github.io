@@ -9,7 +9,8 @@ Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaC
 ### Artifact Selctions
 
 TODO: Add artifact pics.
-![Artifcat](../assets/kitty.jpg)
+
+![kitty](https://user-images.githubusercontent.com/55894383/144662655-92a4e58e-4666-4247-a8b6-689346e268f4.jpg)
 
 Let me see your [projects](https://fambam-ec.github.io/projects.html)
 
