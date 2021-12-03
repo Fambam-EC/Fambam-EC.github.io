@@ -9,7 +9,7 @@ Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaC
 ### Artifact Selctions
 
 TODO: Add artifact pics.
-![Artifcat](C:/users/ecook/desktop/kitty.jpg)
+![Artifcat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2Fkitty&psig=AOvVaw0agx5dMFKKOqMONPGoTq7u&ust=1638646077624000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiY172uyPQCFQAAAAAdAAAAABAD)
 
 Let me see your [projects](https://fambam-ec.github.io/projects.html)
 
