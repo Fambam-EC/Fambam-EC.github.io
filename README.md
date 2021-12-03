@@ -1,14 +1,17 @@
-## I AM ETHAN COOK
-### DEVELOPER
+### Professional Self-Assessment
 
-Take me to your [code review](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaCRTW6o_uYW2qJjXfD/view?usp=sharing)
+TODO: Place professional self assessment
+
+### Informal Code Review
+
+Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaCRTW6o_uYW2qJjXfD/view?usp=sharing) to see me analyze my exisiting projects to arrange and initiate an improvement plan.
+
+### Artifact Selctions
+
+TODO: Add artifact pics.
 
 
 Let me see your [projects](https://fambam-ec.github.io/projects.html)
-
-You can use the [editor on GitHub](https://github.com/Fambam-EC/Fambam-EC.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
