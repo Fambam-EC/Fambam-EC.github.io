@@ -9,7 +9,7 @@ Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaC
 ### Artifact Selctions
 
 TODO: Add artifact pics.
-
+![Artifcat](https://github.com/Fambam-EC/Fambam-EC.github.io/kitty.jpg)
 
 Let me see your [projects](https://fambam-ec.github.io/projects.html)
 
