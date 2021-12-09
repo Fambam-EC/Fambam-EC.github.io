@@ -6,6 +6,10 @@ TODO: Place professional self assessment
 
 Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaCRTW6o_uYW2qJjXfD/view?usp=sharing) to see me analyze my exisiting projects to arrange and initiate an improvement plan.
 
+### Competencies
+
+![90%](https://progress-bar.dev/<90>?title=<Java>)
+
 ### Artifact Selctions
 
 TODO: Add artifact pics.
