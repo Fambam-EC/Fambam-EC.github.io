@@ -8,7 +8,8 @@ Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaC
 
 ### Competencies
 
-Java ![90%](https://progress-bar.dev/90)
+Java 
+![90%](https://progress-bar.dev/90)
 
 ### Artifact Selctions
 
