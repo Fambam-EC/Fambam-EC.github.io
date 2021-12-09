@@ -10,8 +10,14 @@ Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaC
 
 Java 
 ![90%](https://progress-bar.dev/90) <br />
+HTML5 
+![85%](https://progress-bar.dev/90) <br />
 MongoDB 
-![85%](https://progress-bar.dev/85) <br />
+![80%](https://progress-bar.dev/85) <br />
+Node.js 
+![80%](https://progress-bar.dev/90) <br />
+Angular 
+![75%](https://progress-bar.dev/85) <br />
 
 ### Artifact Selctions
 
