@@ -1,5 +1,3 @@
-### ePortfolio Ethan Cook
-
 ### Professional Self-Assessment:
 
 TODO: Place professional self assessment
