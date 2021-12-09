@@ -23,6 +23,10 @@ Eagerness to learn and apply more skills
 
 ### Artifact Selections
 
+Artifact #1 Full Stack Application Developed with the MEAN Stack
+
+![Full Stack Page with Handlebars Loading Dynamic Content](https://user-images.githubusercontent.com/55894383/145478294-07f9f0bb-402e-4515-8e40-ef65e8d251ce.png)
+
 
 Let me see your [projects](https://fambam-ec.github.io/projects.html)
 
