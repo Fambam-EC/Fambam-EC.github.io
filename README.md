@@ -18,12 +18,11 @@ Node.js
 ![80%](https://progress-bar.dev/90) <br />
 Angular 
 ![75%](https://progress-bar.dev/85) <br />
+Eagerness to learn and apply more skills 
+![110%](https://progress-bar.dev/110) <br />
 
-### Artifact Selctions
+### Artifact Selections
 
-TODO: Add artifact pics.
-
-![kitty](https://user-images.githubusercontent.com/55894383/144662655-92a4e58e-4666-4247-a8b6-689346e268f4.jpg)
 
 Let me see your [projects](https://fambam-ec.github.io/projects.html)
 
