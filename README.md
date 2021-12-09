@@ -9,10 +9,9 @@ Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaC
 ### Competencies
 
 Java 
-![90%](https://progress-bar.dev/90)
-
+![90%](https://progress-bar.dev/90) <br />
 MongoDB 
-![85%](https://progress-bar.dev/85)
+![85%](https://progress-bar.dev/85) <br />
 
 ### Artifact Selctions
 
