@@ -93,7 +93,9 @@ My DASH application was not as robust and was a lesser demonstration of complete
 
 Improving the application was tough in trying to align to course rubric criteria, but I believe I showed enough skills.  I had to finish my CRUD operations, as when I completed that term it was not quite complete enough to earn full credit for that project.  The toughest part about finishing the CRUD operations was the converting of data types to display and work correctly, especially when working with cursor objects.  I was able to successfully finish the CRUD operations, which doing in Python will help me in other languages as well.  Java is my preferred language, but just being able to create something that functions well is a passion of mine, regardless of tha language.  Working on this portfolio and the artifacts has reawakened my passion for development.  To be quite frank, doing the projects for school is great to learn and grow, but turning onesself loose on a project, for lack of a better term, reignited my spirit of creation and debugging.  Once there was not a specific "script" (punny), I enjoyed working in the projects and accomplishing something of value.
 
-Here is a link [projects](https://fambam-ec.github.io/projects.html)to another page of my portfolio that is currently in progress.  Click on it if you wish, as I may have already been working to improve it by the time you see it.
+Please see other work in my Github repository [here](https://github.com/Fambam-EC).
+
+Here is a [link](https://fambam-ec.github.io/projects.html) to another page of my portfolio that is currently in progress.  Click on it if you wish, as I may have already been working to improve it by the time you see it.
 
 ## Contact Me With Any Inquiries:
 Ethan Cook <br />
