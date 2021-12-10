@@ -11,13 +11,15 @@ Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaC
 Java 
 ![90%](https://progress-bar.dev/90) <br />
 HTML5 
-![85%](https://progress-bar.dev/90) <br />
+![80%](https://progress-bar.dev/80) <br />
 MongoDB 
-![80%](https://progress-bar.dev/85) <br />
+![80%](https://progress-bar.dev/80) <br />
 Node.js 
-![80%](https://progress-bar.dev/90) <br />
+![80%](https://progress-bar.dev/80) <br />
 Angular 
-![75%](https://progress-bar.dev/85) <br />
+![75%](https://progress-bar.dev/75) <br />
+Express 
+![75%](https://progress-bar.dev/75) <br />
 Eagerness to learn and apply more skills 
 ![110%](https://progress-bar.dev/110) <br />
 
