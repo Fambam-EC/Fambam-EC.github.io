@@ -21,10 +21,10 @@ Angular
 Express 
 ![75%](https://progress-bar.dev/75) <br />
 Eagerness to learn and apply more skills 
-![1200%](https://progress-bar.dev/1200) <br />
+![120%](https://progress-bar.dev/120) <br />
 
-### Artifact Selections
-## Competency: Software Design and Engineering
+## Artifact Selections
+### Competency: Software Design and Engineering
 Full Stack Application Developed with the MEAN Stack
 
 To display Software Engineering capabilities I have converted the static HTML pages below: 
@@ -34,14 +34,14 @@ To dynamic pages with Handlebars Loading JSON content.
 
 TODO: Add summary for reason to include
 
-## Competency: Algorithms and Data Structures
+### Competency: Algorithms and Data Structures
 Full Stack Application with the MEAN Stack
 
 Jupyter Dash Application to render database contents to a Dash Table in HTML Browser
 
 TODO: Add summary for reason to include
 
-## Competency: Databases
+### Competency: Databases
 Jupyter Dash Application to render database contents to a Dash Table in HTML Browser
 
 Full Stack Application with the MEAN Stack: Running App and Database in Docker Container
