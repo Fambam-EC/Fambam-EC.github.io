@@ -27,6 +27,9 @@ Eagerness to learn and apply more skills
 
 Artifact #1 Full Stack Application Developed with the MEAN Stack
 
+To display Software Engineering capabilities I have converted the static HTML pages below: 
+![Full Stack Application with Static HTML Page](https://user-images.githubusercontent.com/55894383/145605122-bd863b8d-93b6-4cd9-97f5-d041a644c320.png)
+To dynamic pages with Handlebars Loading JSON content.
 ![Full Stack Page with Handlebars Loading Dynamic Content](https://user-images.githubusercontent.com/55894383/145478294-07f9f0bb-402e-4515-8e40-ef65e8d251ce.png)
 
 
