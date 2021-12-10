@@ -6,7 +6,7 @@ TODO: Place professional self assessment
 
 Follow this [code review link](https://drive.google.com/file/d/1cc_g1UeDz6uWrgaCRTW6o_uYW2qJjXfD/view?usp=sharing) to see me analyze my exisiting projects to arrange and initiate an improvement plan.  The plans in the code review were implemented in the artifacts below to prove proficiency in navigating and incorporating aspects of Computer Science with respect to development in line with a plan and flawless execution. 
 
-### Competencies
+### Language/Framework Competencies
 
 Java 
 ![90%](https://progress-bar.dev/90) <br />
