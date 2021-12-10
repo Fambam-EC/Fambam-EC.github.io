@@ -87,5 +87,14 @@ Improving the application was difficult at first, but it drove home many key com
 
 ### DASH Application
 
+My DASH application was not as robust and was a lesser demonstration of complete skills when compared to my Full Stack Application.  This artifact was created in Client-Server Development which I took a few months ago.  Despite it not being as robust it still helped me to show competencies in line with the final project rubric.  It specifically showed my proficiency with working with another language besides HTML, Javascript and Java, which was Python.  Python, although seemingly very human readable, can be very tricky with syntax.  Another reason I chose this artifact was the way I had to show my skills in even creating the right environment for which to render my project.  The long list of dependencies and libraries I needed to get included but not limited to, MongoDB with a database and complete collection of data (which I had to get Mongo Tools to even import...), Numpy, Pandas, Jupyter Notebook, and Dash with the various extra tools within Dash  needed.  I think being able to recreate that environment was proof of Computer Science aptitude by itself, but I still had to improve it.
 
-Let me see your [projects](https://fambam-ec.github.io/projects.html)
+Improving the application was tough in trying to align to course rubric criteria, but I believe I showed enough skills.  I had to finish my CRUD operations, as when I completed that term it was not quite complete enough to earn full credit for that project.  The toughest part about finishing the CRUD operations was the converting of data types to display and work correctly, especially when working with cursor objects.  I was able to successfully finish the CRUD operations, which doing in Python will help me in other languages as well.  Java is my preferred language, but just being able to create something that functions well is a passion of mine, regardless of tha language.  Working on this portfolio and the artifacts has reawakened my passion for development.  To be quite frank, doing the projects for school is great to learn and grow, but turning onesself loose on a project, for lack of a better term, reignited my spirit of creation and debugging.  Once there was not a specific "script" (punny), I enjoyed working in the projects and accomplishing something of value.
+
+Here is a link [projects](https://fambam-ec.github.io/projects.html)to another page of my portfolio that is currently in progress.  Click on it if you wish, as I may have already been working to improve it by the time you see it.
+
+## Contact Me With Any Inquiries:
+Ethan Cook
+ethan.cook@snhu.edu
+(262) 458-8081
+
