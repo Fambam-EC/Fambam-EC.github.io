@@ -21,7 +21,7 @@ Angular
 Express 
 ![75%](https://progress-bar.dev/75) <br />
 Eagerness to learn and apply more skills 
-![110%](https://progress-bar.dev/110) <br />
+![1200%](https://progress-bar.dev/1200) <br />
 
 ### Artifact Selections
 
