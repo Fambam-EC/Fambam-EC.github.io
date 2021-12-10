@@ -35,8 +35,6 @@ To dynamic pages with Handlebars Loading JSON content.
 
 ![Full Stack Page with Handlebars Loading Dynamic Content](https://user-images.githubusercontent.com/55894383/145478294-07f9f0bb-402e-4515-8e40-ef65e8d251ce.png)
 
-#### Inclusion Narrative
-
 ### Competency: Algorithms and Data Structures
 Full Stack Application with the MEAN Stack
 
@@ -62,8 +60,6 @@ Rendering in DASH App in Browser
 
 ![Render in DASH](https://user-images.githubusercontent.com/55894383/145634436-df52ef32-949f-497b-8814-abe10d6ccbea.png)
 
-#### Inclusion Narrative
-
 ### Competency: Databases
 Jupyter Dash Application to render database contents to a Dash Table in HTML Browser
 
@@ -81,6 +77,15 @@ Docker Running Containers for Full Stack App with Connection to MongoDB
 
 ![Docker Containers](https://user-images.githubusercontent.com/55894383/145638186-1371c660-7216-4b69-a9f1-a609b86ebea2.png)
 
-#### Inclusion Narrative
+## Artifact Narratives
+
+### Full Stack Travlr Application
+
+I chose to include my Full Stack Application since it broadcasted a lot of my skills, it was a two part elective 400 top level course, and it is through this project that I learned the most on structure, frameworks, Model View Controller development, and interaction with MongoDB.  I also included it because the second part of the course was a great introduction and deployment of the app in the AWS console.  This artifact was taken from my previous term, with some competency inclusions from the current term I am in which has been my first experience within AWS Console.  This artifact basically brings all of my computer science experiences together in a culmination of skills and abilities with languages, frameworks, version control through Git, and how to publish Software securely to AWS.  I can basically create a full stack application within minutes and have it deployed to the cloud.  Obviously it would take a long time to refine the pages and make everything look nice, but it is impressive nonetheless.
+
+Improving the application was difficult at first, but it drove home many key competencies that I needed to refine a bit to make sure everything was operating smoothly.  One specific thing I learned was to make sure that I have the MVC routes exported and imported correctly in certain parts of the application.  Forgetting one simple missing or extra ";" can take down an entire project.  Fortunately those mistakes, albeit frustrating, can be minimized by deliberate testing.  I also had trouble importing images correctly, but realized that they are case sensitive and you also need the right extension.  I know another minor error, but one that I needed to focus and elimnate.  One awesome thing working in Visual Code whenever you save, your development server in Angular would refresh and rebuild itself.  I know that is typical with nodemon and other services, but that one was indeed helpful.  I made sure to confirm my enhancements with the instructor and made sure to highlight where those enhancements contributed to the specific rubric criteria for the final ePortfolio Project.  This application was my star project, and even though it is basic in itself, it blew the hinges off the door of my untapped potential.  I am beyond excited to see what I am able to accomplish with this and other projects in the future.    
+
+### DASH Application
+
 
 Let me see your [projects](https://fambam-ec.github.io/projects.html)
