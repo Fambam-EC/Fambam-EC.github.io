@@ -36,8 +36,10 @@ TODO: Add summary for reason to include
 
 ### Competency: Algorithms and Data Structures
 Full Stack Application with the MEAN Stack
-Specific look at dynamic trip JSON data(1) and the component that uses the trips export(2).
-![MVC trips export](https://user-images.githubusercontent.com/55894383/145632708-b22cc0a4-fe41-4293-ac0b-1292068dc704.png) ![MVC call for trips](https://user-images.githubusercontent.com/55894383/145633375-a83d4247-f0fe-47d7-8099-c8022c68903c.png)
+Specific look at dynamic trip JSON data.
+![MVC trips export](https://user-images.githubusercontent.com/55894383/145632708-b22cc0a4-fe41-4293-ac0b-1292068dc704.png)
+Generated component to render trips data.
+![MVC call for trips](https://user-images.githubusercontent.com/55894383/145633375-a83d4247-f0fe-47d7-8099-c8022c68903c.png)
 
 
 Jupyter Dash Application to render database contents to a Dash Table in HTML Browser
