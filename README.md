@@ -1,6 +1,8 @@
 ### Professional Self-Assessment:
 
-TODO: Place professional self assessment
+My name is Ethan Cook and in this professional self-assessment and the continuing content below I will be highlighting my experiences in the Computer Science field through my academic career, my competencies in the field through education, my current employ and commitment to employment, and my true aspirations for my future career and life.  First, I have taken many courses in foundations for application development gaining the core subject knowledge needed to grow and progress.  I made sure to chose electives that may be the most difficult, but also have the highest ROI towards a professional career.  For my two most post degree applicable electives I chose Mobile Development, and Full Stack Development I and II.  Mobile Development was super beneficial in developing Android applications through the Java language.  This is where I gained the most skills in Java highlighted below in the competencies.  It is in this course where I learned to harness my ability to focus on time management and to critically think to solve programming errors.  Everyone has a cell phone, so chosing to interface with that development process has made me grow as a devloper despite challenges in the course.  Full Stack Development I and II were great courses diving into the MEAN stack and eventually migrating that application to the cloud through AWS.  Learning the intricacies of the MEAN stack allowed me to see how a full stack application can be developed, which would also gives me a head start if I were to look into different means of devloping a full stack application through other libraries etc.  My most developed skills are in Java, MongoDB, and with MongoDB the MEAN stack.
+
+I currently hit a milestone in the company I work for where I hit 10 years employed with them.  I have had several opportunities, but none anywhere close to the opportunities I am about to have upon completion of my degree.  I have already shown excellent commitment to an organization through my many years of service, and I will continue to show excellent commitment to anywhere I may find myself to be.  I have learned a lot in my 10 years with the company, but after having kids and going through all the work to accomplish my degree, I think it is about time I pursue my passion.  I am excitingly passionate about developing applications or web applications that serve humanity and makes things easier for people.  One specific pursuit that I may only be able to accomplish in my own time, is to develop a web application that can reach those and provide resources for which people can get help with addiction.  It seems to be something that is impacting many families and communities, and I think more can be done to serve the people and families that have been impacted by addiction.  In any pursuit I find myself in, I am always excited about solving problems, working as a team, and diligently working towards a worthy ideal.  I am excited to have the opportunity to have a career in building solutions for people across the globe, for that is the epitome of fulfillment in life.   
 
 ### Informal Code Review
 
@@ -94,7 +96,7 @@ Improving the application was tough in trying to align to course rubric criteria
 Here is a link [projects](https://fambam-ec.github.io/projects.html)to another page of my portfolio that is currently in progress.  Click on it if you wish, as I may have already been working to improve it by the time you see it.
 
 ## Contact Me With Any Inquiries:
-Ethan Cook
-ethan.cook@snhu.edu
-(262) 458-8081
+Ethan Cook <br />
+ethan.cook@snhu.edu <br />
+(262) 458-8081 <br />
 
