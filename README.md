@@ -97,6 +97,8 @@ Please see other work in my Github repository [here](https://github.com/Fambam-E
 
 Here is a [link](https://fambam-ec.github.io/projects.html) to another page of my portfolio that is currently in progress.  Click on it if you wish, as I may have already been working to improve it by the time you see it.
 
+Another [link](https://fambam-ec.github.io/cooking.html)
+
 ## Contact Me With Any Inquiries:
 Ethan Cook <br />
 ethan.cook@snhu.edu <br />
